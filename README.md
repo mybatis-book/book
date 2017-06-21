@@ -4,7 +4,9 @@
 
 本书的内容和各种实践源自于和广大开发人员的交流，特别感谢大家的建议和帮助！
 
->**对本书中有疑问或发现问题，可以在此GitHub仓库提交Issue，欢迎大家在此交流！**
+> 欢迎大家通过GitHub，使用Issues方式进行交流：
+>
+> Issues地址：https://github.com/mybatis-book/book/issues 
 
 ## 简介
 
