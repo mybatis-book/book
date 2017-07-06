@@ -12,13 +12,35 @@
 
 本书中从一个简单的 MyBatis 查询入手，搭建起学习 MyBatis 的基础开发环境。通过全面的示例代码和测试讲解了在 MyBatis XML 方式和注解方式中进行增、删、改、查操作的基本用法，介绍了动态 SQL 在不同方面的应用以及在使用过程中的最佳实践方案。针对 MyBatis 高级映射、存储过程和类型处理器提供了丰富的示例，通过自下而上的方法使读者更好地理解和掌握MyBatis 的高级用法，同时针对 MyBatis 的代码生成器提供了详细的配置介绍。此外，本书还提供了缓存配置、插件开发、Spring、Spring Boot  集成的详细内容。最后通过介绍 Git  和 GitHub 让读者了解MyBatis 开源项目，通过对 MyBatis 源码和测试用例的讲解让读者更好掌握 MyBatis。
 
-## 预售地址
+## 购买地址
 
 ![MyBatis 从入门到精通](book.png)
 
-预售地址：[京东](https://item.jd.com/12103309.html)，[当当](http://product.dangdang.com/25098208.html)，[亚马逊](https://www.amazon.cn/MyBatis从入门到精通-刘增辉/dp/B072RC11DM/ref=sr_1_18?ie=UTF8&qid=1498007125&sr=8-18&keywords=mybatis)
+购买地址：[京东](https://item.jd.com/12103309.html)，[当当](http://product.dangdang.com/25098208.html)，[亚马逊](https://www.amazon.cn/MyBatis从入门到精通-刘增辉/dp/B072RC11DM/ref=sr_1_18?ie=UTF8&qid=1498007125&sr=8-18&keywords=mybatis)
 
-> 当前还属于预售阶段，请以最终显示价格为准。
+除了平台自营外，大家还可以搜索第三方卖家，选择价钱合适的购买。
+
+## 资源下载
+
+### [simple-start](./simple-start)
+
+书中第一章的源码，是一个学习 MyBatis 的基础环境。
+
+### [simple-all](./simple-all)
+
+书中基本用法、动态SQL、拦截器、高级用法的完整源码。
+
+在 mybatis-spring-boot 项目中引用了本项目。
+
+### [mybatis-spring](./mybatis-spring)
+
+MyBatis 和 Spring 集成的项目。
+
+### [mybatis-spring-boot](./mybatis-spring-boot)
+
+MyBatis 和 Spring Boot 集成的项目。
+
+>除了以上 4 个项目外，还有 mybatis 源码等内容，可以通过 http://mybatis.tk 获取。
 
 ## 本书内容
 
