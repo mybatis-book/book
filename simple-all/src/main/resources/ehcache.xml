@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="ehcache.xsd"
+    updateCheck="false" monitoring="autodetect"
+    dynamicConfig="true">
+    
+    <diskStore path="D:/cache" />
+            
+	<defaultCache      
+		maxElementsInMemory="3000"      
+		eternal="false"      
+		copyOnRead="true"
+		copyOnWrite="true"
+		timeToIdleSeconds="3600"      
+		timeToLiveSeconds="3600"      
+		overflowToDisk="true"      
+		diskPersistent="true"/> 
+
+	<cache      
+		name="tk.mybatis.simple.mapper.RoleMapper"
+		maxElementsInMemory="3000"      
+		eternal="false"      
+		copyOnRead="true"
+		copyOnWrite="true"
+		timeToIdleSeconds="3600"      
+		timeToLiveSeconds="3600"      
+		overflowToDisk="true"      
+		diskPersistent="true"/> 
+</ehcache>
