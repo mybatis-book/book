@@ -71,7 +71,7 @@
 	    from sys_user
 	</select>
 	
-	<select id="selectRolesByUserId" resultType="tk.mybatis.simple.model.SysUser">
+	<select id="selectRolesByUserId" resultType="tk.mybatis.simple.model.SysRole">
 	    select 
 			r.id, 
 			r.role_name roleName, 
