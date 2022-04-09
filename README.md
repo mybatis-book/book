@@ -40,7 +40,7 @@ MyBatis 和 Spring 集成的项目。
 
 MyBatis 和 Spring Boot 集成的项目。
 
->除了以上 4 个项目外，还有 mybatis 源码等内容，可以通过 http://mybatis.tk 获取。
+>除了以上 4 个项目外，还有 mybatis 源码等内容，可以通过 https://mybatis.io 获取。
 
 ## 本书内容
 
